@@ -1,7 +1,7 @@
 # URI - 2018
 ## Olímpiadas de Natal
 
-This module implements the resolution the URI - 2018 problem (Olimpíadas de Natal).
+This Python module implements the resolution the URI - 2018 problem (Olimpíadas de Natal).
 It can also be used to implement a counting and sorting system for medals in competitions and olympics using the `CountryMedals` class.
 
 ## CountryMedals
